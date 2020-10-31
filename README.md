@@ -6,4 +6,4 @@ Developed a multi-class classifier that takes 'Title' and 'Abstract' as the inpu
 Link: https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/
 
 ## Result
-Achieved an accuracy of ~83% on the test data of 9,000 records
+Achieved a micro F1 score of 0.837 on the test data of ~9,000 records
