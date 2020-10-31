@@ -1,6 +1,6 @@
 # Topic-Modeling-for-Research-Articles
 
-Developed a multi-class classifier that takes 'Title' and 'Abstract' as the input and predicts the category to which it belongs it. Pre-processed the data to remove noise characters and then implemented stemming and lemmatization. Trained and compared the results of BERT, RoBerta, OVR Logistic Regression, Binary Relevance models. 
+Developed a multi-class classifier that takes 'Title' and 'Abstract' as the input and predicts the category to which it belongs it. Pre-processed the data to remove noise characters and then implemented stemming. Trained and compared the results of BERT, RoBerta, OVR Logistic Regression, Binary Relevance models. 
 
 ## Hackathon
 Link: https://datahack.analyticsvidhya.com/contest/janatahack-independence-day-2020-ml-hackathon/
